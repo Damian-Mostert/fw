@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "seed": "node ./index seed",
+    "dev": "npx nodemon ./index.js",
+    "serve": "node ./index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
